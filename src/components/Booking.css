@@ -1,0 +1,10 @@
+.booking-container{
+border: black solid 1px;
+}
+.city-container{
+    display: flex;
+    gap: 2rem;
+}
+.icon{
+    margin-top: 1.7rem;
+}
